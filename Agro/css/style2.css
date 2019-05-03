@@ -1,0 +1,19 @@
+.mainbody{
+	margin-top:100px;
+	
+}
+.logoname{
+	margin-left:10px;
+	color:#004289;
+}
+.lablecontent{
+	margin-top:30px;
+	font-size:20px;
+}
+.changesize{
+	height:70vh;
+	background-image:cover;
+}
+.down{
+	margin-bottom:45vh;
+}
